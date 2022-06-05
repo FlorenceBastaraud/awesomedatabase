@@ -1,0 +1,18 @@
+body {
+  padding-bottom: 30px;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.page-link{
+  color: #28a745;
+}
+
+.page-link:hover, .page-link:active {
+  color: #343a40;
+}
