@@ -2,7 +2,7 @@
 
 # An application offering a simple, intuitive and fast interface for anyone wishing to manage a database.
 
-## Réalisée par Florence Bastaraud
+## Réalisée par Florence Bastaraud avec PHP, MYSQL, AJAX, JAVASCRIPT.
 
 ### Prochaine version : système d'authentification.
 
